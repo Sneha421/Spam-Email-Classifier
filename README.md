@@ -4,7 +4,7 @@
 - This is a spam filter that flags a message as spam or ham. 
 - A message is classified based on the number of spam words present.
 - A fixed number of spam words are stored in a trie and through string matching the number of spam words in a message can be decided
-- It is a naive approach to spam filtering
+- This is a naive approach to spam filtering
 
 ## How to Use?
 - Download the code files and text files present in this repository
