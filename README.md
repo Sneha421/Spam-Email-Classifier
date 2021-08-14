@@ -9,9 +9,13 @@
 ## How to Use?
 - Download the code files and text files present in this repository
 - Ensure to change file location in the code, to your local folders
-- Create two seperate folders called - Spam and Ham
+- Create two seperate folders called - **Spam and Ham**
 - Update their file locations in the code
-- Run Spam_Filter.java
+- Run ***Spam_Filter.java***
+
+## Directory Contents
+- **Code:** Contains the file ***Spam_Filter.java***
+- **Text Files:** Contains one text file called ***Spam Words*** and another folder called ***Test Files*** that contains sample text files for execution
 
 
 
