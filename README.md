@@ -6,6 +6,12 @@
 - A fixed number of spam words are stored in a trie and through string matching the number of spam words in a message can be decided
 - It is a naive approach to spam filtering
 
-## Contents of each directory
+## How to Use?
+- Download the code files and text files present in this repository
+- Ensure to change file location in the code, to your local folders
+- Create two seperate folders called - Spam and Ham
+- Update their file locations in the code
+- Run Spam_Filter.java
+
 
 
